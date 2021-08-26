@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test API Consumer Java</string>
+    <string name="label_albums">Albums</string>
+</resources>
